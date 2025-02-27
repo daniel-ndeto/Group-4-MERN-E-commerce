@@ -99,7 +99,7 @@ FAST-NET-COMPS/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/FAST-NET-COMPS.git
+   git clone https://github.com/daniel-ndeto/Group-4-MERN-E-commerce.git
    cd FAST-NET-COMPS
    ```
 
