@@ -203,4 +203,17 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - Inspiration from the MERN stack community.
 
 ---
+### admin view 
+
+![image](https://github.com/user-attachments/assets/f373f3b7-4e49-4160-9a91-dcab67024967)
+
+### all products in db
+
+![image](https://github.com/user-attachments/assets/0b2620dd-44b5-47e4-a887-4461d303fbe5)
+
+### editing products
+
+![image](https://github.com/user-attachments/assets/12979a05-a3e2-48ec-9689-9a622089f7bc)
+
+
 
