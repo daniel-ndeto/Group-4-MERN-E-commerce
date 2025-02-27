@@ -215,5 +215,23 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ![image](https://github.com/user-attachments/assets/12979a05-a3e2-48ec-9689-9a622089f7bc)
 
+### view of items in cart
+
+![image](https://github.com/user-attachments/assets/cc54134c-3cee-4b83-b870-8561758b757d)
+
+### Create an account and allow to be admin in user name, this account is credited to perform all CRUD operations 
+
+![image](https://github.com/user-attachments/assets/be2ab5f9-0d5e-475b-ae3c-13b9135cfc17)
+
+### single item view 
+
+![image](https://github.com/user-attachments/assets/0cc3a28a-d1d2-4959-a32f-6e11a219f43e)
+
+## Home view 
+
+![image](https://github.com/user-attachments/assets/9d4325e5-eb8e-4006-8d41-bd1e5a86851f)
+
+
+![image](https://github.com/user-attachments/assets/064d5b92-6107-4ad2-9049-5bd36468859a)
 
 
